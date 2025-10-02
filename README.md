@@ -1,10 +1,154 @@
-<h1 align="center">Hi 👋, I'm Louis-David</h1>
-<h3 align="center">M.Sc. Data Science & Stats | Healthcare Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Louis-David%20Piron&fontSize=42&fontAlignY=30&desc=Data%20Scientist%20|%20Healthcare%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/louis-david-piron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/louis-david-piron/" height="30" width="40" /></a>
-</p>
+## 👋 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 **M.Sc. Student** in Data Science & Applied Statistics @ UCLouvain
+
+**Interest:** Applying ML/AI to solve real-life problems, especially in healthcare
+
+**Currently:** Working on my Master's Thesis exploring how neural differential equations can be applied to patient trajectories in order to do interpolation and causal inference
+
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E4C7A?style=for-the-badge&logo=sas&logoColor=white)
+
+### Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### Data Science & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
+
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Insurance Risk Classification
+Policyholder insurance claim prediction using XGBoost, Random Forest, SVM, MLP, and ensemble methods.
+
+**Tech:** XGBoost • scikit-learn • Ensemble Learning
+
+[View Project →](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Reinforcement Learning MDP
+Implementation of Markov Decision Process with dynamic programming (value iteration)
+
+**Tech:** Python • Reinforcement Learning
+
+[View Project →](https://github.com/LDPuser/Reinforcment-Learning-Markov-Decision-Process)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👋 Gesture Classification System
+Multi-approach gesture recognition using Dynamic Time Warping (DTW), Dynamic Barycenter Averaging (DBA), $P Recognizer, and Hidden Markov Models (HMMs).
+
+**Tech:** Python • HMM • DTW • DBA • Pattern Recognition
+
+[View Project →](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Bayesian Hierarchical Modeling
+Custom MCMC implementation (Gibbs sampling & Metropolis-Hastings) for Poisson regression with hospital random effects.
+
+**Tech:** R • MCMC • Bayesian Statistics • JAGS
+
+[View Project →](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Time Series Forecasting
+Weather modeling using SARIMA models.
+
+**Tech:** R • Time Series • SARIMA
+
+[View Project →](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Multivariate Statistical Analysis
+Dimensionality reduction and clustering using PCA, MCA, K-means, and hierarchical clustering methods to better understand key drivers of sleep quality.
+
+**Tech:** R • Python • Unsupervised Learning
+
+[View Project →](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Master Thesis
+
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+**Neural ODEs for Patient Trajectory Analysis in Continuous Glucose Monitoring**
+
+Developing neural differential equation models to analyze CGM data:
+
+✨ Patient trajectory inference and modeling  
+🔄 Interpolation for handling missing data/ irregular sampling rate  
+🎯 Causal inference for treatment effects  
+
+**Tools:** PyTorch • Neural _DE frameworks • Continuous Time Series
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+  
+### 📫 Let's Connect!
+
+Open to collaborations on healthcare projects and research opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/louis-david-piron/)
+
+
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
