@@ -105,9 +105,9 @@ Weather modeling using SARIMA models.
 ### 🔍 Multivariate Statistical Analysis
 Dimensionality reduction and clustering using PCA, MCA, K-means, and hierarchical clustering methods to better understand key drivers of sleep quality.
 
-**Tech:** R • Python • Unsupervised Learning
+**Tech:** R • Ggplot2 • Unsupervised Learning
 
-[View Project →](#)
+[View Project →](https://github.com/LDPuser/Unsupervised-Learning-Sleep-Health)
 
 </td>
 </tr>
