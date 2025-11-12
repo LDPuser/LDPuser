@@ -10,7 +10,7 @@
 
 **Interest:** Applying ML/AI to solve real-life problems, especially in healthcare
 
-**Currently:** Working on my Master's Thesis exploring how neural differential equations can be applied to patient trajectories in order to do interpolation and causal inference
+**Currently:** Working on my Master's Thesis exploring how neural differential equations (NDE) can be applied to postprandial glycemic response (PPGR) modeling
 
 
 ## 🛠️ Tech Stack
@@ -46,12 +46,10 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Insurance Risk Classification
-Policyholder insurance claim prediction using XGBoost, Random Forest, SVM, MLP, and ensemble methods.
+### 🧬 Gene Expression Dashboard
+Interactive dashboard for differential expression analysis with dimensionality reduction and clustering visualization.
 
-**Tech:** XGBoost • scikit-learn • Ensemble Learning
-
-[View Project →](#)
+**Tech:** Dash • UMAP • PCA • K-means • DBSCAN
 
 </td>
 <td width="50%" valign="top">
@@ -74,8 +72,6 @@ Multi-approach gesture recognition using Dynamic Time Warping (DTW), Dynamic Bar
 
 **Tech:** Python • HMM • DTW • DBA • Pattern Recognition
 
-[View Project →](#)
-
 </td>
 <td width="50%" valign="top">
 
@@ -84,20 +80,16 @@ Custom MCMC implementation (Gibbs sampling & Metropolis-Hastings) for Poisson re
 
 **Tech:** R • MCMC • Bayesian Statistics • JAGS
 
-[View Project →](#)
-
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Time Series Forecasting
-Weather modeling using SARIMA models.
+### 🏥 Insurance Risk Classification
+Policyholder insurance claim prediction using XGBoost, Random Forest, SVM, MLP, and ensemble methods.
 
-**Tech:** R • Time Series • SARIMA
-
-[View Project →](#)
+**Tech:** XGBoost • scikit-learn • Ensemble Learning
 
 </td>
 <td width="50%" valign="top">
@@ -112,22 +104,6 @@ Dimensionality reduction and clustering using PCA, MCA, K-means, and hierarchica
 </td>
 </tr>
 </table>
-
----
-
-## 🔬 Master Thesis
-
-<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-**Neural ODEs for Patient Trajectory Analysis in Continuous Glucose Monitoring**
-
-Developing neural differential equation models to analyze CGM data:
-
-✨ Patient trajectory inference and modeling  
-🔄 Interpolation for handling missing data/ irregular sampling rate  
-🎯 Causal inference for treatment effects  
-
-**Tools:** PyTorch • Neural _DE frameworks • Continuous Time Series
 
 <br clear="right"/>
 
