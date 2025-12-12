@@ -51,6 +51,7 @@ Interactive dashboard for differential expression analysis with dimensionality r
 
 **Tech:** Dash • UMAP • PCA • K-means • DBSCAN
 
+[View Project →](https://github.com/LDPuser/METABRIC-Dashboard)
 </td>
 <td width="50%" valign="top">
 
