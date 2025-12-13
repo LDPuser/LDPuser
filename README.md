@@ -10,7 +10,7 @@
 
 **Interest:** Applying ML/AI to solve real-life problems, especially in healthcare
 
-**Currently:** Working on my Master's Thesis exploring how neural differential equations (NDE) can be applied to postprandial glycemic response (PPGR) modeling
+**Currently:** Master's Thesis on **Neural Differential Equations for postprandial glycemic response modeling**. Addresses inter-individual variability and irregular meal patterns using continuous-time models that naturally handle missing data in physiological dynamics. Blending : Deep Learning, Continuous Time-Series modeling, Dynamical systems and Healthcare.
 
 
 ## 🛠️ Tech Stack
