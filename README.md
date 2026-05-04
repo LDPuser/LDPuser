@@ -26,9 +26,9 @@
 
 ### Machine Learning & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-3c9bd4?style=for-the-badge&logo=optuna&logoColor=white)
 
 ### Data Visualization
@@ -68,11 +68,12 @@ Implementation of Markov Decision Process with dynamic programming (value iterat
 <tr>
 <td width="50%" valign="top">
 
-### 👋 Gesture Classification System
-Multi-approach gesture recognition using Dynamic Time Warping (DTW), Dynamic Barycenter Averaging (DBA), $P Recognizer, and Hidden Markov Models (HMMs).
+### 🧬 scRNA-seq Clustering in $\beta$-VAE Latent Spaces
+Clustering of PBMC3k cell populations in a $\beta$-VAE learned latent space using k-means, kernel k-means, and GMM-EM, evaluated against Louvain annotations.
 
-**Tech:** Python • HMM • DTW • DBA • Pattern Recognition
+**Tech:** Python • PyTorch • scikit-learn • $\beta$-VAE • scRNA-seq
 
+[View Project →](https://github.com/LDPuser/SC-RNA-representation-learning)
 </td>
 <td width="50%" valign="top">
 
@@ -80,6 +81,8 @@ Multi-approach gesture recognition using Dynamic Time Warping (DTW), Dynamic Bar
 Custom MCMC implementation (Gibbs sampling & Metropolis-Hastings) for Poisson regression with hospital random effects.
 
 **Tech:** R • MCMC • Bayesian Statistics • JAGS
+
+[View Project →](https://github.com/LDPuser/Unsupervised-Learning-Sleep-Health)
 
 </td>
 </tr>
@@ -91,6 +94,8 @@ Custom MCMC implementation (Gibbs sampling & Metropolis-Hastings) for Poisson re
 Policyholder insurance claim prediction using XGBoost, Random Forest, SVM, MLP, and ensemble methods.
 
 **Tech:** XGBoost • scikit-learn • Ensemble Learning
+
+[View Project →](https://github.com/LDPuser/Unsupervised-Learning-Sleep-Health)
 
 </td>
 <td width="50%" valign="top">
