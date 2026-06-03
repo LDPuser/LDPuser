@@ -8,14 +8,14 @@
 
 🎓 **M.Sc.** in Data Science & Applied Statistics @ UCLouvain
 
-**Research interests:** Generative modelling, Neural Differential Equations, representation learning, computational biology
+**Research interests:** Generative modelling, Representation Learning, Computational Biology
 
-**Recently:** Completed Master's Thesis on **Controlled Latent ODE-RNN for
+**Recently:** Submited Master's Thesis *Controlled Latent ODE-RNN for
 Continuous-Time Blood Glucose Modeling : Representation Learning, Factual and
-Counterfactual Dietary Predictions**.
+Counterfactual Dietary Predictions*.
 
 **Incoming:** Junior Orsi Fellow @ Harvard Medical School 
-(Abudayyeh-Gootenberg Lab) $-$ virtual cell modelling using diffusion models.
+([Abudayyeh-Gootenberg Lab](https://www.abugootlab.org/) $-$ virtual cell modelling using diffusion models.
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +52,7 @@ Counterfactual Dietary Predictions**.
 
 ### 🩸 Controlled Latent ODE-RNN $-$ Master's Thesis
 Extends the Latent ODE-RNN (Rubanova et al., 2019) with a continuous-time meal control signal $-$ the 
-$\beta$-Kernel parametrizations $-$ for postprandial glucose modeling. Evaluated on two *in silico* populations ($N=500$, with/without 
+$\beta$-Kernel $-$ for continuous-time blood glucose modeling. Evaluated on two *in silico* populations ($N=500$, with/without 
 inter-individual variability) against ODE-LSTM and Latent ODE-RNN baselines across three objectives: (i) representation learning ; (ii) long-term factual prediction, and (iii) counterfactual dietary simulation.
 
 **Tech:** Python · PyTorch · torchdiffeq · Neural Differential Equations · VAE 
