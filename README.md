@@ -6,12 +6,16 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 **M.Sc. Student** in Data Science & Applied Statistics @ UCLouvain
+🎓 **M.Sc.** in Data Science & Applied Statistics @ UCLouvain
 
-**Interest:** Applying ML/AI to solve real-life problems, especially in healthcare
+**Research interests:** Generative modelling, Neural Differential Equations, representation learning, computational biology
 
-**Currently:** Master's Thesis on **Neural Differential Equations for postprandial glycemic response modeling**. Addresses inter-individual variability and irregular meal patterns using continuous-time models that naturally handle missing data in physiological dynamics. Blending : Deep Learning, Continuous Time-Series modeling, Dynamical systems and Healthcare.
+**Recently:** Completed Master's Thesis on **Controlled Latent ODE-RNN for
+Continuous-Time Blood Glucose Modeling : Representation Learning, Factual and
+Counterfactual Dietary Predictions**.
 
+**Incoming:** Junior Orsi Fellow @ Harvard Medical School 
+(Abudayyeh-Gootenberg Lab) $-$ virtual cell modelling using diffusion models.
 
 ## 🛠️ Tech Stack
 
@@ -44,76 +48,46 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🧬 Gene Expression Dashboard
-Interactive dashboard for differential expression analysis with dimensionality reduction and clustering visualization.
+### 🩸 Controlled Latent ODE-RNN $-$ Master's Thesis
+Extends the Latent ODE-RNN (Rubanova et al., 2019) with a continuous-time meal control signal $-$ the 
+$\beta$-Kernel parametrizations $-$ for postprandial glucose modeling. Evaluated on two *in silico* populations ($N=500$, with/without 
+inter-individual variability) against ODE-LSTM and Latent ODE-RNN baselines across three objectives: (i) representation learning ; (ii) long-term factual prediction, and (iii) counterfactual dietary simulation.
 
-**Tech:** Dash • UMAP • PCA • K-means • DBSCAN
+**Tech:** Python · PyTorch · torchdiffeq · Neural Differential Equations · VAE 
 
-[View Project →](https://github.com/LDPuser/METABRIC-Dashboard)
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Reinforcement Learning MDP
-Implementation of Markov Decision Process with dynamic programming (value iteration)
-
-**Tech:** Python • Reinforcement Learning
-
-[View Project →](https://github.com/LDPuser/Reinforcment-Learning-Markov-Decision-Process)
+[View Project →](https://github.com/LDPuser/CLODE-blood-glucose-modeling)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🧬 scRNA-seq Clustering in $\beta$-VAE Latent Spaces
-Clustering of PBMC3k cell populations in a $\beta$-VAE learned latent space using k-means, kernel k-means, and GMM-EM, evaluated against Louvain annotations.
+### 🧫 scRNA-seq Clustering in $\beta$-VAE Latent Spaces
+Clustering of PBMC3k cell populations in a β-VAE learned latent space using k-means, kernel k-means, and GMM-EM, evaluated against Louvain annotations.
 
-**Tech:** Python • PyTorch • scikit-learn • $\beta$-VAE • scRNA-seq
+**Tech:** Python · PyTorch · scikit-learn · $\beta$-VAE · scRNA-seq
 
 [View Project →](https://github.com/LDPuser/SC-RNA-representation-learning)
-</td>
-<td width="50%" valign="top">
-
-### 📊 Bayesian Hierarchical Modeling
-Custom MCMC implementation (Gibbs sampling & Metropolis-Hastings) for Poisson regression with hospital random effects.
-
-**Tech:** R • MCMC • Bayesian Statistics • JAGS
-
-[View Project →](https://github.com/LDPuser/Unsupervised-Learning-Sleep-Health)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🏥 Insurance Risk Classification
-Policyholder insurance claim prediction using XGBoost, Random Forest, SVM, MLP, and ensemble methods.
+### 🧬 METABRIC - Gene Expression Dashboard
+Interactive dashboard for differential expression analysis with dimensionality reduction and clustering visualization on breast cancer data.
 
-**Tech:** XGBoost • scikit-learn • Ensemble Learning
+**Tech:** Shiny for Python · Plotly · UMAP · PCA · K-means · DBSCAN
 
-[View Project →](https://github.com/LDPuser/Unsupervised-Learning-Sleep-Health)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 Multivariate Statistical Analysis
-Dimensionality reduction and clustering using PCA, MCA, K-means, and hierarchical clustering methods to better understand key drivers of sleep quality.
-
-**Tech:** R • Ggplot2 • Unsupervised Learning
-
-[View Project →](https://github.com/LDPuser/Unsupervised-Learning-Sleep-Health)
+[View Project →](https://github.com/LDPuser/METABRIC-Dashboard)
 
 </td>
 </tr>
 </table>
-
-<br clear="right"/>
-
----
 
 <div align="center">
   
