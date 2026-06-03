@@ -10,12 +10,14 @@
 
 **Research interests:** Generative modelling, Representation Learning, Computational Biology
 
-**Recently:** Submited Master's Thesis *Controlled Latent ODE-RNN for
+**Recently:** Submited Master's Thesis *"Controlled Latent ODE-RNN for
 Continuous-Time Blood Glucose Modeling : Representation Learning, Factual and
-Counterfactual Dietary Predictions*.
+Counterfactual Dietary Predictions"*.
+
+<br>
 
 **Incoming:** Junior Orsi Fellow @ Harvard Medical School 
-([Abudayyeh-Gootenberg Lab](https://www.abugootlab.org/) $-$ virtual cell modelling using diffusion models.
+([Abudayyeh-Gootenberg Lab](https://www.abugootlab.org/) $-$ virtual cell modelling using diffusion models).
 
 ## 🛠️ Tech Stack
 
