@@ -6,13 +6,13 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 **M.Sc.** in Data Science & Applied Statistics @ UCLouvain
+🎓 **M.Sc.** in Data Science & Applied Statistics @ UCLouvain (Graduated Summa Cum Laude)
 
 **Research interests:** Generative modelling, Representation Learning, Computational Biology
 
-**Recently:** Submited Master's Thesis *"Controlled Latent ODE-RNN for
+**Recently:** Defended Master's Thesis *"Controlled Latent ODE-RNN for
 Continuous-Time Blood Glucose Modeling : Representation Learning, Factual and
-Counterfactual Dietary Predictions"*.
+Counterfactual Dietary Predictions"* (18/20).
 
 <br>
 
