@@ -16,9 +16,6 @@ Counterfactual Dietary Predictions"*.
 
 <br>
 
-**Incoming:** Junior Orsi Fellow @ Harvard Medical School 
-([Abudayyeh-Gootenberg Lab](https://www.abugootlab.org/) $-$ virtual cell modelling using diffusion models).
-
 ## 🛠️ Tech Stack
 
 <div align="center">
